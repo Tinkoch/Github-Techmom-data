@@ -2,3 +2,4 @@
 Name | Link
 ------------|--------------
 ChatGPT data Video | [https://youtu.be/U3UhtGYmfBw?si=9mQ4JAqYcEknrwuj] 
+Datalyzer | [(https://www.youtube.com/@danalyser)]
