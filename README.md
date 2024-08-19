@@ -9,3 +9,8 @@ Agatha | [https://www.youtube.com/@agathakang]
 Alex the Analyst | [https://www.youtube.com/@AlexTheAnalyst]
 hugging data| [https://github.com/huggingface/datasets]
 Github for beginners | [https://github.com/Tinkoch/data-analytics-resources#:~:text=Git%20and%20GitHub%20Tutorial%20for%20Beginners]
+
+
+# Questions I have:
+
+1. 
