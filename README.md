@@ -12,5 +12,8 @@ Github for beginners | [https://github.com/Tinkoch/data-analytics-resources#:~:t
 
 
 # Questions I have:
-
 1. 
+
+
+
+
