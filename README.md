@@ -12,8 +12,14 @@ Github for beginners | [https://github.com/Tinkoch/data-analytics-resources#:~:t
 
 
 # Data Questions:
-1. 
+1.
 
+
+# Excel Projects:
+
+Project | Learned From | Project | Link
+--------|---------------|--------|-----------
+Bike Sales Project | Alex the Analyst | Bike Sales | [[Excel Project Dataset.xlsx](https://github.com/user-attachments/files/16790580/Excel.Project.Dataset.xlsx)]
 
 
 
