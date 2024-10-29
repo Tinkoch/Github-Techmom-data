@@ -233,6 +233,17 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 - [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
 
+SELECT - extracts data from a database
+UPDATE - updates data in a database
+DELETE - deletes data from a database
+INSERT INTO - inserts new data into a database
+CREATE DATABASE - creates a new database
+ALTER DATABASE - modifies a database
+CREATE TABLE - creates a new table
+ALTER TABLE - modifies a table
+DROP TABLE - deletes a table
+CREATE INDEX - creates an index (search key)
+DROP INDEX - deletes an index
 ## Hands-on Practice 
 
 _Est. Time to Complete: 2 hours_
